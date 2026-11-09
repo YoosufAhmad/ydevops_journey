@@ -1,0 +1,5 @@
+2023-05-18 12:03:28 INFO: Application clicked
+2023-05-18 12:03:28 INFO: Application clicked
+2023-05-18 12:03:28 DEBUG: Processing files
+2023-05-18 12:03:28 ERROR: Connection times out
+2023-05-18 12:04:28 ERROR: Invalid credentials
